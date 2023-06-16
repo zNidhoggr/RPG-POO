@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author UFCA
+ *
+ */
+module RPGGame {
+}
